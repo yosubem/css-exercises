@@ -1,0 +1,18 @@
+p{
+    background-color: #FFC0CB;
+    font-family: 'Verdana','DejaVu Sans', 'sans-serif';
+}
+
+#second-element{
+    color: blue;
+    font-size: 36px;
+}
+
+.different-size{
+    font-size: 24px;
+}
+
+#forth-element{
+    background-color: #90EE90;
+    font-weight: bold;
+}
